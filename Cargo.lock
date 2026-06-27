@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "primitive_buffer"
+name = "primitive-buffer"
 version = "0.1.0"
